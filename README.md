@@ -4,7 +4,7 @@
 
 <pre><code>
 source 'https://github.com/CocoaPods/Specs.git'
-source 'git@github.com:foursquare/Pilgrim-CocoaPods.git'
+source 'git@github.com:foursquare/Pilgrim-CocoaPods-Beta.git'
 
 platform :ios, '12.0'
 
